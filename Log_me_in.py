@@ -52,8 +52,6 @@ def bin_login():
 
 
 def krak_login():
-    # New driver for new window
-    
     
     # Navigate to Kraken
     driver2.get('https://www.kraken.com/sign-in?')
